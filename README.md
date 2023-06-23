@@ -59,13 +59,11 @@
                 alt="react" width="40" height="40" /> </a> </p>
 <br /> 
 
-<p ><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=tyagi-achint&show_icons=true&locale=en&layout=compact" alt="tyagi-achint"> <img  align="right" src="https://github-readme-stats.vercel.app/api?username=tyagi-achint&show_icons=true&locale=en" alt="tyagi-achint">
- </p> 
+<p ><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=tyagi-achint&show_icons=true&locale=en&layout=compact" alt="tyagi-achint"> <img  align="right" src="https://github-readme-stats.vercel.app/api?username=tyagi-achint&show_icons=true&locale=en" alt="tyagi-achint"> 
 
-<br />
 
-<p align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=tyagi-achint&" alt="tyagi-achint" />
+
+<img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=tyagi-achint&" alt="tyagi-achint" />
 </p>
 
   
