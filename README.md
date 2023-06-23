@@ -59,10 +59,10 @@
                 alt="react" width="40" height="40" /> </a> </p>
 <br /> 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tyagi-achint&show_icons=true&locale=en&layout=compact" alt="tyagi-achint" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=tyagi-achint&show_icons=true&locale=en" alt="tyagi-achint" />
-            
+<p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=tyagi-achint&show_icons=true&locale=en&layout=compact" alt="tyagi-achint">
+</p>
+<p align="right"><img  src="https://github-readme-stats.vercel.app/api?username=tyagi-achint&show_icons=true&locale=en" alt="tyagi-achint">
+ </p>           
 <br />
 
 <p align="center">
