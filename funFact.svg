@@ -32,7 +32,7 @@
         </script>
 
       <div class="container">
-      - ⚡ Fun fact <div style="font-weight:bold;">I think I am <div class="colorful-text">creative with colours</div></div>
+      - ⚡ Fun fact <div style="font-weight:bold;">I think I am <p class="colorful-text">creative with colours</p></div>
     
       </div>
     </div>
