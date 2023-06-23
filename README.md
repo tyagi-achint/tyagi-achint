@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [Working on IT]
 
-- 🗣️ I Speak [English, Hindi](English, Hindi) <br>
+- 🗣️ I Speak **English, Hindi**
 
 - 💬 Ask me about **Front-end, Designing** 
 
@@ -22,7 +22,8 @@
 
 - 📄 Know about my experiences [Working on IT]
 
-- ⚡ Fun fact **I think I am creative with colours**
-  <img src="funFact.svg">
+- ⚡ Fun fact **I think I am creative with colors**
+
+
 
   
