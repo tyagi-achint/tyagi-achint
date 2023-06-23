@@ -1,4 +1,4 @@
 <div align="center">
-<img src="icon.png">
+<img src="me.png">
 <img src="readme.svg">
 </div>
