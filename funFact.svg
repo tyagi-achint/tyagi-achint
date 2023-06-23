@@ -1,0 +1,40 @@
+<svg fill="none" viewBox="0 0 600 70" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+       <style>
+            .colorful-text span {
+                display: inline-block;
+            }
+        </style>
+        <script>
+            window.addEventListener('DOMContentLoaded', function () {
+                var textElement = document.querySelector('.colorful-text');
+                var words = textElement.innerText.split(' ');
+                textElement.innerHTML = '';
+
+                words.forEach(function (word) {
+                    var span = document.createElement('span');
+                    span.textContent = word;
+                    span.style.color = getRandomColor();
+                    textElement.appendChild(span);
+                    textElement.appendChild(document.createTextNode(' '));
+                });
+
+                function getRandomColor() {
+                    var letters = '0123456789ABCDEF';
+                    var color = '#';
+                    for (var i = 0; i < 6; i++) {
+                        color += letters[Math.floor(Math.random() * 16)];
+                    }
+                    return color;
+                }
+            });
+        </script>
+
+      <div class="container">
+      - ⚡ Fun fact <div style="font-weight:bold;">I think I am <div class="colorful-text">creative with colours</div></div>
+    
+      </div>
+    </div>
+  </foreignObject>
+</svg>
