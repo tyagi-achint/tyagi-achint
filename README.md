@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Learning Back-end** 
 
-- 👨‍💻 All of my projects are available at [here](https://tyagi-achint.github.io)
+- 👨‍💻 All of my projects are available at [here](https://tyagi-achint.github.io/#projects)
 
 - 🗣️ I Speak **English, Hindi**
 
