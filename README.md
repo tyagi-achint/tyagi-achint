@@ -2,7 +2,7 @@
 <img src="me.png">
 <img src="readme.svg">
 </div>
-<h2 align="center">A passionate frontend developer 👨‍💻 from India</h2>
+<h2 align="center">A passionate frontend developer 👨‍💻 from भारत (India)</h2>
 
 - 🔭 I’m currently working on **PhP**
   
