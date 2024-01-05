@@ -22,8 +22,8 @@
           display: inline-block;
           transform-origin: 70% 70%;
         }
-         h1 {
-              margin: 0;
+         h2 {
+              margin-top: 0;
              }
       </style>
 
